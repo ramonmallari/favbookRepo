@@ -1,0 +1,45 @@
+
+.container{
+    margin:15px;
+    width:1000px;
+    background-color: rgb(214, 214, 214);
+    padding: 25px;
+}
+
+#registration{
+    width:600px;
+    display: inline-block;
+}
+#login{
+    width:600px;
+    display: inline-block;
+    position:absolute;
+}
+.banner{
+    width:900px;
+    display:inline-block;
+    border-bottom: 2px solid black;
+}
+.add_book{
+    margin:15px;
+    display: inline-block;
+    width: 550px;
+    position:top;
+}
+.all_books{
+    width:450px;
+    display: inline-block;
+    margin:15px;
+}
+.like{
+    display: inline-block;
+    position:absolute;
+    width:500px;
+}
+.book{
+    display: inline-block;
+    width:600px;
+}
+.book .col-sm-6{
+    width:200px;
+}
